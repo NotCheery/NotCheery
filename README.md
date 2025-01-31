@@ -1,7 +1,17 @@
 Hello! I'm @NotCheery 👋 
-👀 I’m interested in creating websites, front-end and back-end development!
-🌱 I’m currently learning web development with HTML, CSS, and JavaScript! 
-For now, I know Python, and some HTML, CSS, and JavaScript.
+
+I'm a third year CS student whose passionate about building web applications. I enjoy building interactive applications and exploring new technologies!
+
+🌟 Current Projects:
+Outer Space Café Game ☕ – A fun café management game with an intergalactic twist. (Used React framework to create this game app).
+AI Chatbot 🖥️ - Chat with an AI bot. (Integreated Wit.ai API for interaction, used Node.js and JavaScript)
+Sustainability Website 🌎 - Web app for informing sustainability practices. (Built with JavaScript and HTML/CSS)
+
+📌 Skills: Python, JavaScript, React, Node.js, Express, SQL.
+🎯 Looking for: Internship opportunities in software engineering, web development, or data science. Open to a lot of other opportunities as well!
+
+Let's connect!
+[LinkedIn](www.linkedin.com/in/tahia-csc)
 
 <!---
 NotCheery/NotCheery is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
