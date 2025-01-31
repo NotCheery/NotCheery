@@ -3,11 +3,12 @@ Hello! I'm @NotCheery 👋
 I'm a third year CS student whose passionate about building web applications. I enjoy building interactive applications and exploring new technologies!
 
 🌟 Current Projects:
-Outer Space Café Game ☕ – A fun café management game with an intergalactic twist. (Used React framework to create this game app).
 
-AI Chatbot 🖥️ - Chat with an AI bot. (Integreated Wit.ai API for interaction, used Node.js and JavaScript)
+- Outer Space Café Game ☕ – A fun café management game with an intergalactic twist. (Used React framework to create this game app).
 
-Sustainability Website 🌎 - Web app for informing sustainability practices. (Built with JavaScript and HTML/CSS)
+- AI Chatbot 🖥️ - Chat with an AI bot. (Integreated Wit.ai API for interaction, used Node.js and JavaScript)
+
+- Sustainability Website 🌎 - Web app for informing sustainability practices. (Built with JavaScript and HTML/CSS)
 
 📌 Skills: Python, JavaScript, React, Node.js, Express, SQL.
 
