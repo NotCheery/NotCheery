@@ -15,8 +15,6 @@ I'm a third year CS student whose passionate about building web applications. I 
 🎯 Looking for: Internship opportunities in software engineering, web development, or data science. Open to a lot of other opportunities as well!
 
 Let's connect!
-[LinkedIn]([www.linkedin.com/in/tahia-csc](https://www.linkedin.com/in/tahia-csc/))
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/tahia-csc/)
 
 
