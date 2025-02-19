@@ -1,6 +1,6 @@
 Hello! I'm @NotCheery 👋 
 
-I'm a third year CS student whose passionate about building web applications. I enjoy building interactive applications and exploring new technologies!
+I'm a third year CS student whose passionate about building  interactive applications and exploring new technologies!
 
 🌟 Current Projects:
 
