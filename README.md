@@ -1,6 +1,6 @@
-Hello! I'm @NotCheery 👋 
+Hello! I'm @NotCheery 
 
-I'm a third year CS student whose passionate about building  interactive applications and exploring new technologies!
+I'm a CS student whose passionate about building  interactive applications and exploring new technologies!
 
 🌟 Current Projects:
 
@@ -10,9 +10,9 @@ I'm a third year CS student whose passionate about building  interactive applica
 
 - Sustainability Website 🌎 - Web app for informing sustainability practices. (Built with JavaScript and HTML/CSS)
 
-📌 Skills: Python, JavaScript, React, Node.js, Express, SQL.
+Skills: Python, JavaScript, React, Node.js, Express, SQL.
 
-🎯 Looking for: Internship opportunities in software engineering, web development, or data science. Open to a lot of other opportunities as well!
+Looking for: Internship opportunities in software engineering, web development, or data science. Open to a lot of other opportunities as well!
 
 Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/tahia-csc/)
