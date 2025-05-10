@@ -13,6 +13,7 @@ For a hackathon in a team of 4, I dived into backend engineering with Node and E
 Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/tahia-csc/)
 
+In my spare time, I enjoy painting, sketching, and playing games. I'm a creative person which really shines in my apps :)
 <!---
 NotCheery/NotCheery is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
