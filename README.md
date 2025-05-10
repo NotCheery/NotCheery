@@ -8,9 +8,10 @@ I'm building an Android Echo Journal App wiht Kotlin, because I'm addicted to jo
 
 I also built this fun Space Cafe Game App with React: [Space Cafe Game](https://github.com/NotCheery/Space-Cafe-Game)
 
+For a hackathon in a team of 4, I dived into backend engineering with Node and Express, creating RESTful API: [Medi-QR](https://github.com/natalyyau/Medi-QR)
+
 Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/tahia-csc/)
-
 
 <!---
 NotCheery/NotCheery is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
