@@ -1,18 +1,10 @@
 Hello! I'm @NotCheery 
 
-I'm a CS student whose passionate about building  interactive applications and exploring new technologies!
+I'm a CS student. 
 
-🌟 Current Projects:
+I build whatever seems fun and interesting to me!
 
-- Outer Space Café Game ☕ – A fun café management game with an intergalactic twist. (Used React framework to create this game app).
-
-- AI Chatbot 🖥️ - Chat with an AI bot. (Integreated Wit.ai API for interaction, used Node.js and JavaScript)
-
-- Sustainability Website 🌎 - Web app for informing sustainability practices. (Built with JavaScript and HTML/CSS)
-
-Skills: Python, JavaScript, React, Node.js, Express, SQL.
-
-Looking for: Internship opportunities in software engineering, web development, or data science. Open to a lot of other opportunities as well!
+I'm building an Android Echo Journal App, because I'm addicted to journaling: [![Echo Journal]](https://github.com/NotCheery/Echo-Journal)
 
 Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/tahia-csc/)
