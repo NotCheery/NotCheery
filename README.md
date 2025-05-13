@@ -4,7 +4,7 @@ I'm a CS student.
 
 I build whatever seems fun and interesting to me!
 
-I'm building an Android Echo Journal App with Kotlin, because I'm addicted to journaling: [Echo Journal](https://github.com/NotCheery/Echo-Journal)
+I'm building an Android Echo Journal App with Kotlin and Java, because I'm addicted to journaling: [Echo Journal](https://github.com/NotCheery/Echo-Journal)
 
 I also built this fun Space Cafe Game App with React: [Space Cafe Game](https://github.com/NotCheery/Space-Cafe-Game)
 
