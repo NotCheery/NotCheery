@@ -4,8 +4,6 @@ I'm a CS student.
 
 I build whatever seems fun and interesting to me!
 
-I'm building an Android Journal App with Kotlin and Java, because I'm addicted to journaling: [Mood Notes](https://github.com/NotCheery/Mood-Notes)
-
 I also built this fun Space Cafe Game App with React: [Space Cafe Game](https://github.com/NotCheery/Space-Cafe-Game)
 
 For a hackathon in a team of 4, I dived into backend engineering with Node and Express, creating RESTful API: [Medi-QR](https://github.com/natalyyau/Medi-QR)
