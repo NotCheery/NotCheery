@@ -16,7 +16,7 @@
 - Other: Scikit-learn, Seaborn, Databricks, REST API
 
 # 🚀 Featured Projects
-- Employee Database App
+- [Employee Database App](https://github.com/katthegreat/employee-database-app.git)
   An application that stores employee records in MySQL Database.
 
   Used Java to develop features for admin to view and edit employee records.
@@ -28,7 +28,7 @@
 
   Tech Stack: Node.js, Express.js, React, REST API
 
-- [![VisionROI]](https://github.com/Bondella1/VisionROI.git)
+- [VisionROI](https://github.com/Bondella1/VisionROI.git)
   Developed a data visualization tool designed to help businesses and researchers track projects and gain actionable insights for project success.
 
   Tech Stack: React, Python
