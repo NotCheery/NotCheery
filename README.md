@@ -15,6 +15,11 @@
 
 - Other: Scikit-learn, Seaborn, Databricks
 
+# 🚀 Featured Projects
+- Employee Database App
+  An application that stores employee records in MySQL Database. Used Java to develop features for admin to view and edit employee records.
+  Tech Stack: Java, MySQL Database, SQL, DBeaver
+
 # Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/tahia-csc/)
 
