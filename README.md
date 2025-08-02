@@ -23,7 +23,7 @@
 
   Tech Stack: Java, MySQL Database, SQL, DBeaver
 
-- [![Medi-QR]](https://github.com/natalyyau/Medi-QR.git)
+- [Medi-QR](https://github.com/natalyyau/Medi-QR.git)
   Developed a health risk assessment tool in a team of 4 for GT Hacklytics.
 
   Tech Stack: Node.js, Express.js, React, REST API
