@@ -13,12 +13,26 @@
 
 - Databases: Postgres, MySQL, IBM DB2
 
-- Other: Scikit-learn, Seaborn, Databricks
+- Other: Scikit-learn, Seaborn, Databricks, REST API
 
 # 🚀 Featured Projects
 - Employee Database App
-  An application that stores employee records in MySQL Database. Used Java to develop features for admin to view and edit employee records.
+  An application that stores employee records in MySQL Database.
+
+  Used Java to develop features for admin to view and edit employee records.
+
   Tech Stack: Java, MySQL Database, SQL, DBeaver
+
+- [![Medi-QR]](https://github.com/natalyyau/Medi-QR.git)
+  Developed a health risk assessment tool in a team of 4 for GT Hacklytics.
+
+  Tech Stack: Node.js, Express.js, React, REST API
+
+- [![VisionROI]](https://github.com/Bondella1/VisionROI.git)
+  Developed a data visualization tool designed to help businesses and researchers track projects and gain actionable insights for project success.
+
+  Tech Stack: React, Python
+
 
 # Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/tahia-csc/)
