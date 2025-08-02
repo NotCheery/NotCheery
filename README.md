@@ -1,17 +1,24 @@
-Hello! I'm Tahia Islam.
+## Tahia Islam | Aspiring Data Scientist and Software Engineer
+# 💻 About Me
+🎓 I’m currently pursuing a Bachelor’s Degree in Computer Science
 
-I'm a CS student. 
+🌱 Learning and exploring Data Science, Software Engineer, Cloud Computing, etc.
 
-I build whatever seems fun and interesting to me!
+⚡ Fun fact: My neighbor's cat is my friend!
 
-I also built this fun Space Cafe Game App with React: [Space Cafe Game](https://github.com/NotCheery/Space-Cafe-Game)
+# 🛠 Technical Skills
+- Languages: Python, JavaScript, Java, C, SQL
 
-For a hackathon in a team of 4, I dived into backend engineering with Node and Express, creating RESTful API: [Medi-QR](https://github.com/natalyyau/Medi-QR)
+- Frameworks and Tools: Node.js, React, Pandas, Dbeaver, Power BI, VSCode, Jupyter Notebook
+
+- Databases: Postgres, MySQL, IBM DB2
+
+- Other: Scikit-learn, Seaborn, Databricks
 
 Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/tahia-csc/)
 
-You can contact me at itahia05@gmail.com
+You can also contact me at itahia05@gmail.com
 
 In my spare time, I enjoy painting, sketching, and playing games. I'm a creative person which really shines in my apps :)
 <!---
