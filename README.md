@@ -15,11 +15,12 @@
 
 - Other: Scikit-learn, Seaborn, Databricks
 
-Let's connect!
+# Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/tahia-csc/)
 
-You can also contact me at itahia05@gmail.com
+Email: itahia05@gmail.com
 
+___________________________________________________
 In my spare time, I enjoy painting, sketching, and playing games. I'm a creative person which really shines in my apps :)
 <!---
 NotCheery/NotCheery is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
