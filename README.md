@@ -26,15 +26,15 @@
 
 - [Medi-QR](https://github.com/natalyyau/Medi-QR.git) - Georgia Tech Hacklytics/Hackathon
 
-  Developed a health risk assessment tool in a team of 4 for GT Hacklytics.
+  - Developed a health risk assessment tool in a team of 4 for GT Hacklytics.
 
-  Tech Stack: Node.js, Express.js, React, REST API
+  - Tech Stack: Node.js, Express.js, React, REST API
 
 - [VisionROI](https://github.com/Bondella1/VisionROI.git) - Microsoft Hackathon
 
-  Developed a data visualization tool designed to help businesses and researchers track projects and gain actionable insights for project success.
+  - Developed a data visualization tool designed to help businesses and researchers track projects and gain actionable insights for project success.
 
-  Tech Stack: React, Python
+  - Tech Stack: React, Python
 
 
 # Let's connect!
