@@ -18,11 +18,11 @@
 # 🚀 Featured Projects
 - [Employee Database App](https://github.com/katthegreat/employee-database-app.git) - Software Dev Course
 
-  An application that stores employee records in MySQL Database.
+  - An application that stores employee records in MySQL Database.
 
-  Used Java to develop features for admin to view and edit employee records.
+  - Used Java to develop features for admin to view and edit employee records.
 
-  Tech Stack: Java, MySQL Database, SQL, DBeaver
+  - Tech Stack: Java, MySQL Database, SQL, DBeaver
 
 - [Medi-QR](https://github.com/natalyyau/Medi-QR.git) - Georgia Tech Hacklytics/Hackathon
 
