@@ -17,11 +17,11 @@
 
 # 🏆 Hackathon Achievements
 - **1st Place Winner** | Deutsche Bank Hackathon 2025
-  - Developed "Excess," a web application and AI-powered voice support line that helps underrepresented communities discover verified local aid programs.
+  - Developed "Excess" in a team of 5, a web application and AI-powered voice support line that helps underrepresented communities discover verified local aid programs.
   - [Excess](https://github.com/tristanyii/deutchebank-hackathon.git)
 
 - **1st Place Winner** | HackHers 2025
-  - Developed "Clutch," a women-centered app that lets students request and share feminine hygiene products safely, through verified people and spots on campus.
+  - Developed "Clutch" in a team of 4, a women-centered app that lets students request and share feminine hygiene products safely, through verified people and spots on campus.
   - [Clutch](https://github.com/NotCheery/hack-hers-2025.git)
   
 # 🚀 Featured Projects
