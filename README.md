@@ -9,12 +9,21 @@
 # 🛠 Technical Skills
 - Languages: Python, JavaScript, Java, C, SQL
 
-- Frameworks and Tools: Node.js, React, Pandas, Dbeaver, Power BI, VSCode, Jupyter Notebook
+- Frameworks and Tools: React, Flask, Node.js, Pandas, Dbeaver, Power BI, VSCode, Jupyter Notebook
 
-- Databases: Postgres, MySQL, IBM DB2
+- Databases: MySQL
 
-- Other: Scikit-learn, Seaborn, Databricks, REST API
+- Other: Scikit-learn, Seaborn, Databricks, REST API, Azure (Microsoft Auth)
 
+# 🏆 Hackathon Achievements
+- **1st Place Winner** | Deutsche Bank Hackathon 2025
+  - Developed "Excess," a web application and AI-powered voice support line that helps underrepresented communities discover verified local aid programs.
+  - [Excess](https://github.com/tristanyii/deutchebank-hackathon.git)
+
+- **1st Place Winner** | HackHers 2025
+  - Developed "Clutch," a women-centered app that lets students request and share feminine hygiene products safely, through verified people and spots on campus.
+  - [Clutch](https://github.com/NotCheery/hack-hers-2025.git)
+  
 # 🚀 Featured Projects
 - [Employee Database App](https://github.com/katthegreat/employee-database-app.git) - Software Dev Course
 
