@@ -2,7 +2,7 @@
 # 💻 About Me
 🎓 I’m currently pursuing a Bachelor’s Degree in Computer Science
 
-🌱 Love to participate in hackathons where I learn and really push myself!
+🌱 Love to participate in hackathons and case studies where I learn and really push myself!
 
 ⚡ Fun fact: My neighbor's cat is my friend!
 
@@ -28,31 +28,11 @@
 
 | Name | Event / Org | Area | Tech Stack | GitHub | Demo | Status |
 |------|------------|------|------------|--------|------|--------|
+|Allstate Project|Fellowship (Break Through Tech)| Insurance/Machine Learning|Python, ML|(allstate_1b)[https://github.com/NotCheery/allstate_1b.git]|N/A|Completed|
 |Clutch|HackHers 2025 @ GSU|Healthcare|React, Next.js| [Clutch](https://github.com/NotCheery/hack-hers-2025.git)|[Clutch Demo](https://youtube.com/shorts/3xQ1hH2w_0c?si=cDwW8D6TIU3h4_sm)|🏆1st Place Win|
 |Excess|Deutsche Bank Innovate Hackathon|FinTech|Python, Flask, Next.js|[Excess](https://github.com/tristanyii/deutchebank-hackathon.git)|[Excess Demo](https://imgur.com/a/deutsche-bank-hackathon-excess-demo-K85ug6m)|🏆1st Place Win|
-|Employee Database App| School Project | Tech | Java, MySQL, DBeaver | [Employee Database App](https://github.com/katthegreat/employee-database-app.git) | N/A | N/A|
-
-
-
-- [Employee Database App](https://github.com/katthegreat/employee-database-app.git) - Software Dev Course
-
-  - An application that stores employee records in MySQL Database.
-
-  - Used Java to develop features for admin to view and edit employee records.
-
-  - Tech Stack: Java, MySQL Database, SQL, DBeaver
-
-- [Medi-QR](https://github.com/natalyyau/Medi-QR.git) - Georgia Tech Hacklytics/Hackathon
-
-  - Developed a health risk assessment tool in a team of 4 for GT Hacklytics.
-
-  - Tech Stack: Node.js, Express.js, React, REST API
-
-- [VisionROI](https://github.com/Bondella1/VisionROI.git) - Microsoft Hackathon
-
-  - Developed a data visualization tool designed to help businesses and researchers track projects and gain actionable insights for project success.
-
-  - Tech Stack: React, Python
+|Employee Database App| School Project | Tech | Java, MySQL, DBeaver | [Employee Database App](https://github.com/katthegreat/employee-database-app.git) | N/A | Completed|
+|Housing Prices|Data Science Class Project|Real Estate, Data Science|Python, ML|[Housing Prices](https://github.com/natalyyau/predicting-housing-prices.git)| N/A | Completed|
 
 
 # Let's connect!
