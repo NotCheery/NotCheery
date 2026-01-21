@@ -28,7 +28,7 @@
 
 | Name | Event / Org | Area | Tech Stack | GitHub | Demo | Status |
 |------|------------|------|------------|--------|------|--------|
-|Allstate Project|Fellowship (Break Through Tech)| Insurance/Machine Learning|Python, ML|(allstate_1b)[https://github.com/NotCheery/allstate_1b.git]|N/A|Completed|
+|Allstate Project|Fellowship (Break Through Tech)| Insurance/Machine Learning|Python, ML|[allstate_1b](https://github.com/NotCheery/allstate_1b.git)|N/A|Completed|
 |Clutch|HackHers 2025 @ GSU|Healthcare|React, Next.js| [Clutch](https://github.com/NotCheery/hack-hers-2025.git)|[Clutch Demo](https://youtube.com/shorts/3xQ1hH2w_0c?si=cDwW8D6TIU3h4_sm)|🏆1st Place Win|
 |Excess|Deutsche Bank Innovate Hackathon|FinTech|Python, Flask, Next.js|[Excess](https://github.com/tristanyii/deutchebank-hackathon.git)|[Excess Demo](https://imgur.com/a/deutsche-bank-hackathon-excess-demo-K85ug6m)|🏆1st Place Win|
 |Employee Database App| School Project | Tech | Java, MySQL, DBeaver | [Employee Database App](https://github.com/katthegreat/employee-database-app.git) | N/A | Completed|
