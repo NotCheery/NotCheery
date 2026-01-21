@@ -25,6 +25,12 @@
   - [Clutch](https://github.com/NotCheery/hack-hers-2025.git)
   
 # 🚀 Featured Projects
+
+| Name | Event / Org | Area | Tech Stack | GitHub | Demo | Status |
+|------|------------|------|------------|--------|------|--------|
+|Clutch|HackHers 2025 @ GSU|Healthcare      |  React, Next.js          |  [Clutch](https://github.com/NotCheery/hack-hers-2025.git)      |      |        |
+
+
 - [Employee Database App](https://github.com/katthegreat/employee-database-app.git) - Software Dev Course
 
   - An application that stores employee records in MySQL Database.
